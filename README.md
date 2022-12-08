@@ -1,4 +1,5 @@
-### Hi there 👋
+### About me
+I am a software engineer who loves discovering creative and efficient solutions to puzzles big and small independently and working within team. This is what led me to pursue software development and it also drives my love of crochet, board games, and science fiction novels. The joy I gain from solving coding challenges by learning new frameworks and technologies has led me to develop expertise in JavaScript, Node.js, React, Redux, Express, Sequelize, Python, Flask, and SQLAlchemy. Before becoming a software engineer I studied biochemistry and biology in college, and held research positions investigating biotin metabolism and higher education faculty retainment respectively. I also spent time as a resident assistant among other roles in resident life. where I developed strong communication and customer service skills. I look forward to harnessing my programming and interpersonal skills in my future projects and roles!
 
 <!--
 **jhpremo/jhpremo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
